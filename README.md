@@ -15,7 +15,7 @@ tags:
 
 To-do: Stacking (meta-learner)
 
-![CNN for text classification]()
+![CNN for text classification](https://github.com/rbiswasfc/NLP/blob/master/Text-classification/images/Text-cnn.PNG)
 
 
 ## Clustering
